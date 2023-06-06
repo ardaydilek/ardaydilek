@@ -2,5 +2,5 @@
 
 ---
 
-** Arda Kaan Aydilek **
+**Arda Kaan Aydilek**
 `Full Stack Develoer`
